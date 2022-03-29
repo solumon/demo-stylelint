@@ -1,0 +1,10 @@
+$nav-color: #f90;
+
+nav {
+  $width: 100px;
+
+  position: relative;
+  display: flex;
+  width: $width;
+  color: $nav-color;
+}

@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  position: relative;
+  display: flex;
+  font-size: 100px;
+  font-weight: bold;
+}
